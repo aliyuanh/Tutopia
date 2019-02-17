@@ -52,7 +52,7 @@ class JokeHolder(
     jokeDescription.text = joke.text
 
     favoriteButton.setImageResource(if(joke.isFavorite) R.drawable.ic_favorite_filled else R.drawable.ic_favorite_border)
-      tutorPic.setImageResource(R.drawable.samoyed)
+     // tutorPic.setImageResource(R.drawable.samoyed)
       tutorPic.onClick {
           val emailIntent = Intent(Intent.ACTION_SENDTO, Uri.fromParts(
                   "mailto", joke.authorName + "@gmail.com", null))
@@ -63,7 +63,7 @@ class JokeHolder(
   }
     fun changeImage(bitmap: Bitmap) = with(itemView){
         if(bitmap == null){
-            tutorPic.setImageResource(R.drawable.samoyed)
+           // tutorPic.setImageResource(R.drawable.samoyed)
 
         }else {
             tutorPic.setImageBitmap(bitmap)

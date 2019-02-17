@@ -1,4 +1,4 @@
-#Sun Feb 17 08:13:06 PST 2019
-base.0=C\:\\Users\\aliyu\\Desktop\\tutor\\TutorConnect\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+#Sun Feb 17 09:18:47 PST 2019
+base.0=C\:\\Users\\aliyu\\Desktop\\Tutopia\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 path.0=classes.dex
 renamed.0=classes.dex
