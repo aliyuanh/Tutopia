@@ -1,0 +1,4 @@
+#Sun Feb 17 08:54:48 PST 2019
+base.0=C\:\\Users\\aliyu\\Desktop\\tutor\\TutorConnect\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1057301763900",
+    "firebase_url": "https://why-so-serious-a089f.firebaseio.com",
+    "project_id": "why-so-serious-a089f",
+    "storage_bucket": "why-so-serious-a089f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057301763900:android:7883aaa4b62bd385",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.android.whysoserious"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057301763900-16nl64891vfu5pb0166k2cnh1ub1qij8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raywenderlich.android.whysoserious",
+            "certificate_hash": "5c0f21651e24c146f6c4ffbab299fde11c68aaa2"
+          }
+        },
+        {
+          "client_id": "1057301763900-10otkgh0c52tualnknlsbmffb8i1cror.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJj11mu2jn1sMGgna8csS11ZvMv4ZYPuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057301763900-10otkgh0c52tualnknlsbmffb8i1cror.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
